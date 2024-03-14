@@ -1,0 +1,22 @@
+{
+  "name": "sit323_737-2024-t1-prac2p",
+  "version": "1.0.0",
+  "description": "sit 323 week 2 prac",
+  "main": "server.js",
+  "scripts": {
+      "start": "node server_get.js"
+  },
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/phanvuminhtrung/sit323_737-2024-t1-prac2p"
+  },
+  "author": "Troy Phan",
+  "license": "MIT",
+  "bugs": {
+      "url": "https://github.com/phanvuminhtrung/sit323_737-2024-t1-prac2p/issues"
+  },
+  "homepage": "https://github.com/phanvuminhtrung/sit323_737-2024-t1-prac2p#readme",
+  "dependencies": {
+      "express": "^4.18.3"
+  }
+}
